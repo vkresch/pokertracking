@@ -1,0 +1,8 @@
+# Folders
+vpython/
+data/
+test_data/
+__pycache__/
+
+# Files
+*.pyc
